@@ -7,7 +7,7 @@ I am dedicated to building intuitive and user-friendly applications. I thrive on
 
 ## Projects
 
-###[DonateMate](https://donatemate.pushed.nz/)
+[DonateMate](https://donatemate.pushed.nz/)
 This website was built as our final group project over 7 days. The purpose of the site is to allow donors to search for organizations and understand what goods they urgently need. It also enables organizations to create profiles to inform donors of their needs. 
 
 - **My Role:** 
