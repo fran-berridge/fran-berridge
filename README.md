@@ -6,7 +6,7 @@ I’m Fran, an aspiring Software Developer fueled by a passion for coding and in
 Projects
 
 **DonateMate **
-This website was built for our final group project over 7 days.  The pupose of the website was to have a site that donars could search organisations and understand what goods they were urgently needing.  It also allowed orgganisatons to create a profile to let the doners know what they were needing.  I supported with setting up Auth0 and implementing some of the components for viewing an organisation.
+This website was built for our final group project over 7 days.  The pupose of the site was to have a site that donars could search organisations and understand what goods they were urgently needing.  It also allowed orgganisatons to create a profile to let the doners know what they were needing.  I supported with setting up Auth0 and implementing some of the components for viewing an organisation.
 I played the joint role of agile facilitator with a colleague to guide converrsations, iddentify roadblocks and ensure we were were able to deliver our Minimum Loveable Product (MLP).  
 
 
