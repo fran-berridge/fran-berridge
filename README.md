@@ -1,6 +1,5 @@
 ## Kia Ora 👋
 
-Kia Ora!
 
 I’m Fran, an aspiring Software Developer fueled by a passion for coding and innovation. I recently completed my Certificate in Applied Software Development (Level 6) at Dev Academy Aotearoa, where I honed my skills in software design and development.
 
